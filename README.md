@@ -17,5 +17,5 @@ cat requirements.txt
 ## Run steamlit app
 
 ```
-streamlit run d:/projekv6/dashboard/dashboard.py
+streamlit run d:/projekv7/dashboard/dashboard.py
 ```
